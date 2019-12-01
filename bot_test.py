@@ -1,11 +1,11 @@
 import botometer
 
-rapidapi_key = "451607b1e0msh25b2412730c45c8p11508djsn9676e0259193" # now it's called rapidapi key
+rapidapi_key = "```" # now it's called rapidapi key
 twitter_app_auth = {
-    'consumer_key': 'tVfwIeDM4d4Pq6GnrsHHbpBlE',
-    'consumer_secret': 'ghMvvhw0BmId7AdU6iyUk6Jei2FaI9dGMDiDU79jftzbDY6XfX',
-    'access_token': '1180778301414989824-IvztT5SV2hMWx45yHAScbodTtOLcJ4',
-    'access_token_secret': '52yv8LKQKtuSqMtfQs7ij5xhxgQ6hYsefE3O0akBuIzkV',
+    'consumer_key': '```',
+    'consumer_secret': '```',
+    'access_token': '```',
+    'access_token_secret': '```',
   }
 bom = botometer.Botometer(wait_on_ratelimit=True,
                           rapidapi_key=rapidapi_key,
